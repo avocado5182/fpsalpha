@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "fps",
+"productVersion": "0.1",
+"dataUrl": "fps alpha 1.1.data.unityweb",
+"wasmCodeUrl": "fps alpha 1.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "fps alpha 1.1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
